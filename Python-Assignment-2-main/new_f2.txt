@@ -1,0 +1,16 @@
+Given two integer numbers, return their product only if the product is equal to or lower than one zero zero zero. Otherwise, return their sum.
+
+Given one:
+
+numberone = two zero
+numbertwo = three zero
+Expected Output:
+
+The result is six zero zero
+Given two:
+
+numberone = four zero
+numbertwo = three zero
+Expected Output:
+
+The result is seven zero
